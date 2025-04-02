@@ -263,7 +263,7 @@ const CardsWrapper = styled.div`
 `;
 
 const Card = styled.div`
-  width: 30%;
+  width: 20%;
   margin-top: 20px;
   border-radius: 15px;
   background-color: ${(props) => props.theme.bgDiv};
